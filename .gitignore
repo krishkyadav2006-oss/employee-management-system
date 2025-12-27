@@ -1,0 +1,13 @@
+#React
+employeefrontend/node_modules/
+employeefrontend/build/
+employeefronted/.env
+
+#SpringBoot
+backend/target/
+backend/.mvn/
+backend/application.properties
+backend/.env
+
+#General
+*.log
